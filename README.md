@@ -31,3 +31,29 @@ Install *John the Ripper*:
 ```bash
 sudo apt install john
 sudo apt installjohn
+```
+
+You also need:
+• Bash
+• Wordlist (Eg. wordlist.txt)
+
+## Installation
+
+Clone the Repository
+
+```bash
+git clone https://github.com/amrit-js/crackit.git
+cd crackit
+```
+
+Make the script executable: 
+
+```bash
+chmod +x crackit.sh
+```
+
+Run:
+
+```bash
+./crackit.sh
+```
