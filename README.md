@@ -1,7 +1,7 @@
 # ⚡ CrackIT — John the Ripper Wrapper Tool  
 A safe, educational password-cracking demonstration tool.
 
-CrackIT is a *Linux CLI tool* built around *John the Ripper, designed for **college cybersecurity labs*.  
+CrackIT is a *Linux CLI tool* built around *John the Ripper*.  
 It demonstrates *dictionary attacks* on:
 
 - Hash files  
